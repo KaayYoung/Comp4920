@@ -15,7 +15,7 @@ Main Topics:
 
 Course Project:                           
 A group of 5 students do one large Project                                   
-3 team memebers are resposible for Password Manager (Web)                                  
-2 team members are resposible for Password Manager (App)                             
+3 team memebers are resposible for Password Manager Web part                                                   
+2 team members are resposible for Password Manager App part (My job)                              
 Project is corresponding to Agile Software development                                   
 Evaluation based on sprint review in each week and final demo                                    
