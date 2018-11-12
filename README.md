@@ -13,7 +13,7 @@ Main Topics:
 8. Intellectual Property and Software Patents
 
 
-Course Project:
+Course Project:                           
 A group of 5 students do one large Project                                   
 3 team memebers are resposible for Password Manager (Web)                                  
 2 team members are resposible for Password Manager (App)                             
