@@ -1,5 +1,7 @@
 # Comp4920
 
+Management and Ethics
+
 Main Topics:
 1. Introduction to Project Management and Ethics
 2. Legal Perspective on the Software Industry
@@ -12,8 +14,8 @@ Main Topics:
 
 
 Course Project:
-A group of 5 students do one large Project
-3 team memebers are resposible for Password Manager (Web)
-2 team members are resposible for Password Manager (App)
-Project is corresponding to Agile Software development
-Evaluation based on sprint review in each week and final demo
+A group of 5 students do one large Project                                   
+3 team memebers are resposible for Password Manager (Web)                                  
+2 team members are resposible for Password Manager (App)                             
+Project is corresponding to Agile Software development                                   
+Evaluation based on sprint review in each week and final demo                                    
